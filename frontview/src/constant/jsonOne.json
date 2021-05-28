@@ -1,0 +1,167 @@
+{
+    "status": true,
+    "message": "live sports events",
+    "data": {
+        "jsonrpc": "2.0",
+        "result": [{
+                "event": {
+                    "id": "29904136",
+                    "name": "England v West Indies",
+                    "countryCode": "GB",
+                    "timezone": "GMT",
+                    "openDate": "2020-07-17T10:00:00.000Z"
+                },
+                "marketCount": 79
+            },
+            {
+                "event": {
+                    "id": "29891880",
+                    "name": "England v Ireland",
+                    "countryCode": "GB",
+                    "timezone": "GMT",
+                    "openDate": "2020-07-30T13:00:00.000Z"
+                },
+                "marketCount": 28
+            },
+            {
+                "event": {
+                    "id": "29389056",
+                    "name": "ICC World Test Championship",
+                    "countryCode": "GB",
+                    "timezone": "GMT",
+                    "openDate": "2019-08-01T10:00:00.000Z"
+                },
+                "marketCount": 1
+            },
+            {
+                "event": {
+                    "id": "29912482",
+                    "name": "Seaside CC v Linkoping CC",
+                    "countryCode": "GB",
+                    "timezone": "GMT",
+                    "openDate": "2020-07-17T08:00:00.000Z"
+                },
+                "marketCount": 8
+            },
+            {
+                "event": {
+                    "id": "29833965",
+                    "name": "England v West Indies",
+                    "countryCode": "GB",
+                    "timezone": "EET",
+                    "openDate": "2020-07-15T10:00:00.000Z"
+                },
+                "marketCount": 3
+            },
+            {
+                "event": {
+                    "id": "29912483",
+                    "name": "Jonkoping CA v Watan Zalmi",
+                    "countryCode": "GB",
+                    "timezone": "GMT",
+                    "openDate": "2020-07-17T10:00:00.000Z"
+                },
+                "marketCount": 8
+            },
+            {
+                "event": {
+                    "id": "28102621",
+                    "name": "Pakistan Super League",
+                    "timezone": "GMT",
+                    "openDate": "2020-02-20T12:00:00.000Z"
+                },
+                "marketCount": 1
+            },
+            {
+                "event": {
+                    "id": "29911513",
+                    "name": "SG Hainhausen 1886 v SV Wiesbaden 1899",
+                    "countryCode": "GB",
+                    "timezone": "GMT",
+                    "openDate": "2020-07-18T15:00:00.000Z"
+                },
+                "marketCount": 8
+            },
+            {
+                "event": {
+                    "id": "27918802",
+                    "name": "IPL",
+                    "timezone": "GMT",
+                    "openDate": "2020-03-29T14:30:00.000Z"
+                },
+                "marketCount": 1
+            },
+            {
+                "event": {
+                    "id": "28529194",
+                    "name": "ICC World Twenty20 2020",
+                    "countryCode": "AU",
+                    "timezone": "GMT",
+                    "openDate": "2020-10-24T14:00:00.000Z"
+                },
+                "marketCount": 1
+            },
+            {
+                "event": {
+                    "id": "29911507",
+                    "name": "Frankfurt CC v MSC Frankfurt",
+                    "countryCode": "GB",
+                    "timezone": "GMT",
+                    "openDate": "2020-07-18T07:00:00.000Z"
+                },
+                "marketCount": 8
+            },
+            {
+                "event": {
+                    "id": "29911508",
+                    "name": "Turk FC Hattersheim v MSC Frankfurt",
+                    "countryCode": "GB",
+                    "timezone": "GMT",
+                    "openDate": "2020-07-18T09:00:00.000Z"
+                },
+                "marketCount": 8
+            },
+            {
+                "event": {
+                    "id": "29858075",
+                    "name": "3T Cricket",
+                    "countryCode": "GB",
+                    "timezone": "Europe/London",
+                    "openDate": "2020-07-18T09:00:00.000Z"
+                },
+                "marketCount": 1
+            },
+            {
+                "event": {
+                    "id": "29911509",
+                    "name": "Frankfurt CC v Turk FC Hattersheim",
+                    "countryCode": "GB",
+                    "timezone": "GMT",
+                    "openDate": "2020-07-18T11:00:00.000Z"
+                },
+                "marketCount": 8
+            },
+            {
+                "event": {
+                    "id": "29911510",
+                    "name": "FCA 04 Darmstadt v SG Hainhausen 1886",
+                    "countryCode": "GB",
+                    "timezone": "GMT",
+                    "openDate": "2020-07-18T13:00:00.000Z"
+                },
+                "marketCount": 8
+            },
+            {
+                "event": {
+                    "id": "29371262",
+                    "name": "ICC Cricket World Cup 2023",
+                    "countryCode": "GB",
+                    "timezone": "Europe/London",
+                    "openDate": "2023-05-01T11:00:00.000Z"
+                },
+                "marketCount": 1
+            }
+        ],
+        "id": 1
+    }
+}
